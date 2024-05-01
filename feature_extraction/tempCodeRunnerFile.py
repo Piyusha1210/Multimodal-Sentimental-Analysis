@@ -1,0 +1,1 @@
+feats, logits = get_resnet_feats()
